@@ -4,7 +4,6 @@
 - 🎓 Experience with HTML, CSS, Javascript, Angular.js, React.js, Vue.js, Nuxt.js, Three.js, SCSS, Styled Components and Tailwind CSS
 - 💞️ Looking to collaborate on front-end projects
 - 🤓 Always interested in learning something new
-- 🌊 Looking for a new front-end job in the UK, Isle of Wight or Southampton.
 - 📫 You can reach me by sending a message on Github!
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
